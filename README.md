@@ -1,9 +1,9 @@
-## 👥 Team: COGNITIVE SHIELD
+## Team: COGNITIVE SHIELD
 # BEHAVIOUR SHIELD AI 🛡️
 
 ---
 
-### 🎯 Problem Statement
+### Problem Statement
 Developing a next-generation fraud detection system that goes beyond traditional transaction monitoring by analyzing behavioral financial patterns, contextual signals, and adaptive risk scoring to proactively identify suspicious financial activity in digital payment ecosystems.
 
 ---
@@ -16,7 +16,7 @@ Fintech / AI-ML / Cyber Sercurity
 
 ---
 
-## 👥 Team Members:-
+## Team Members:-
 | Name | University Roll No. |
 | :--- | :--- |
 | **Ritesh Yadav** | 1230439247 |
